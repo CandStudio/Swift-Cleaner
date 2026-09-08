@@ -26,14 +26,6 @@ Clean temporary files, browser cache, recycle bin, and more — all with a singl
 
 ---
 
-## 📥 Download
-
-**Version:** 1.0.0  
-**File:** [SwiftCleaner.exe](https://github.com/CandStudio/Swift-Cleaner/blob/main/SwiftCleaner.exe)  
-**Size:** ~45 MB  
-**Platform:** Windows 7 / 8 / 10 / 11
-
----
 
 ## ⚠️ Notes
 
@@ -50,11 +42,6 @@ GitHub: [@CandStudio](https://github.com/CandStudio)
 
 ---
 
-## 📄 License
-
-MIT License — free to use, modify, and distribute.
-
----
 
 ## ⭐ Support
 
