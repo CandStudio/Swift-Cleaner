@@ -25,3 +25,4 @@ Clean temporary files, browser cache, recycle bin, and more — all with a singl
 | 🚀 **One-click Cleanup** | Just click "CLEAN NOW" and let it work |
 
 ---
+ download: https://github.com/CandStudio/Swift-Cleaner/blob/main/SwiftCleaner.exe
