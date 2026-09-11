@@ -48,7 +48,7 @@ Clean temporary files, browser cache, recycle bin, and more — all with a singl
 SwiftCleaner requires:
 
 * 🪟 Windows 7 / 8 / 10 / 11
-* 🐍 **Python 3.10 or newer**
+* 🐍 **Python**
 
 > ⚠️ **Python must be installed** if you are running SwiftCleaner.
 
